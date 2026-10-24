@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+langgraph
+langgraph-checkpoint-sqlite
+aiosqlite
+langchain
+langchain-anthropic
+ddgs
+httpx
+beautifulsoup4
+pypdf
+pytest
